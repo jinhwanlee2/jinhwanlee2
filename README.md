@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZvdGJpczd3eDYyaWtrZXBmYjEyeDBreGMzbDF2dnZlYXpydGtmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 - 🔭 I’m currently working on **creating a website portfolio**
 
-- 🌱 I’m currently learning **front end development and writing scripts**
+- 🌱 I’m currently learning **how to train an AI model and will be starting a project on it soon**
 
 - 👨‍💻 All of my projects are available at [--](--)
 
