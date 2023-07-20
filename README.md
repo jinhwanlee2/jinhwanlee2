@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinhwanlee2&label=Profile%20views&color=0e75b6&style=flat" alt="jinhwanlee2" /> </p>
 <img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZvdGJpczd3eDYyaWtrZXBmYjEyeDBreGMzbDF2dnZlYXpydGtmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
-- 🔭 I’m currently working on **creating a website portfolio**
+- 🔭 I’m currently working on **how to train an AI model and will be starting a project on it soon**
 
-- 🌱 I’m currently learning **how to train an AI model and will be starting a project on it soon**
+- 🌱 I’m currently learning **training AI models and scripting**
 
-- 👨‍💻 All of my projects are available at [--](--)
+- 👨‍💻 <a href="https://jinhwanlee2.github.io/" target="_blank">All of my projects are available at https://jinhwanlee2.github.io/</a>
 
 - 📫 How to reach me: **jinhwanl0880@gmail.com**
 
