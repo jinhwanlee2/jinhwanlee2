@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **training AI models and scripting**
 
-- 👨‍💻 <a href="https://jinhwanlee2.github.io/" target="_blank">All of my projects are available at https://jinhwanlee2.github.io/</a>
+- 👨‍💻 <a> All of my projects are available at https://jinhwanlee2.github.io/</a>
 
 - 📫 How to reach me: **jinhwanl0880@gmail.com**
 
