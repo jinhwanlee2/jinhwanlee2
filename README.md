@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZvdGJpczd3eDYyaWtrZXBmYjEyeDBreGMzbDF2dnZlYXpydGtmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 - 🔭 I’m currently working on **how to train an AI model and will be starting a project on it soon**
 
-- 🌱 I’m currently learning **training AI models and scripting**
+- 🌱 I’m currently learning **training AI models and REST API**
 
 - 👨‍💻 <a> All of my projects are available at https://jinhwanlee2.github.io/</a>
 
