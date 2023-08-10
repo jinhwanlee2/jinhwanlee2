@@ -12,8 +12,6 @@
 
 - 📫 How to reach me: **jinhwanl0880@gmail.com**
 
-- 📄 Know about my experiences [--](--)
-
 - School github: **jlee756**
 
 <h3 align="left">Connect with me:</h3>
